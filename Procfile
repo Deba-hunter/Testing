@@ -1,1 +1,1 @@
-web: python AADI.py
+web: python main.py
